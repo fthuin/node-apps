@@ -1,0 +1,7 @@
+body {
+    padding-bottom: 50px !important;
+}
+
+.borderless tbody tr td, .borderless tbody tr th, .borderless thead tr th {
+    border: none;
+}
